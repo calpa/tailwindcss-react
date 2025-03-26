@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* 樣式導入 */
+@import "./styles/styles.scss";
